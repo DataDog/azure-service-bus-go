@@ -30,10 +30,10 @@ import (
 	"sync"
 	"time"
 
-	common "github.com/Azure/azure-amqp-common-go/v3"
-	"github.com/Azure/azure-amqp-common-go/v3/rpc"
-	"github.com/Azure/azure-amqp-common-go/v3/uuid"
-	"github.com/Azure/go-amqp"
+	common "github.com/DataDog/azure-amqp-common-go"
+	"github.com/DataDog/azure-amqp-common-go/rpc"
+	"github.com/DataDog/azure-amqp-common-go/uuid"
+	"github.com/DataDog/go-amqp"
 	"github.com/devigned/tab"
 )
 

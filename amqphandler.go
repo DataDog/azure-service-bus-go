@@ -25,7 +25,7 @@ package servicebus
 import (
 	"context"
 
-	"github.com/Azure/go-amqp"
+	"github.com/DataDog/go-amqp"
 	"github.com/devigned/tab"
 )
 

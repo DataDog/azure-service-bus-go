@@ -1,8 +1,8 @@
 package servicebus
 
 import (
-	"github.com/Azure/azure-amqp-common-go/v3/uuid"
-	"github.com/Azure/go-amqp"
+	"github.com/DataDog/azure-amqp-common-go/uuid"
+	"github.com/DataDog/go-amqp"
 )
 
 type (

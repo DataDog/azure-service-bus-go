@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/Azure/azure-amqp-common-go/v3/rpc"
-	"github.com/Azure/go-amqp"
+	"github.com/DataDog/azure-amqp-common-go/rpc"
+	"github.com/DataDog/go-amqp"
 )
 
 // Error Conditions
